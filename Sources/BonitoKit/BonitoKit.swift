@@ -7,6 +7,7 @@ public struct VerdadeView: View {
     }
     public var body: some View {
         Text("oii")
+        Text("Hello World")
     }
 }
 
